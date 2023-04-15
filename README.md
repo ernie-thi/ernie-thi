@@ -1,5 +1,6 @@
-# Hi there, im ernie 👋
+# Hi there👋
 
+- I'm ernie 👨‍🦱
 - I'm currently doing a CS Bachelor in Germany. 🇩🇪 👨‍🎓 
 - I'm currently working on improving my coding proficiency 👨‍💻
 - I aim to learn something new everyday, which currently are Machine Learning related topics. 🙃
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> Wer aufhört, besser zu werden, hat aufgehört, gut zu sein.
+> Ambition is the path to success. Persistence is the vehicle you arrive in.
