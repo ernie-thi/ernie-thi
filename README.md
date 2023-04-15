@@ -1,4 +1,4 @@
-# Hi there, im Raphael 👋
+# Hi there, im ernie 👋
 
 - I'm currently doing a CS Bachelor in Germany. 🇩🇪 👨‍🎓 
 - I'm currently working on improving my coding proficiency 👨‍💻
