@@ -4,7 +4,7 @@
 - I'm currently doing a CS Bachelor in Germany. 🇩🇪 👨‍🎓 
 - I'm currently working on improving my coding proficiency 👨‍💻
 - I aim to learn something new everyday, which currently are Machine Learning related topics. 🙃
-- I also enjoy learning languages & hitting the gym 🏋️‍♂️ 🇮🇹 or riding my roadbike 🚴‍♂️
+- I also enjoy learning languages & hitting the gym 🏋️ 🇨🇿 🇮🇹 🇪🇸 as well as riding my roadbike 🚴‍ or motorcycle 🏍
 
 ## Tools and Languages i do have experience with
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
